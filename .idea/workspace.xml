@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bb86aee4-7fb9-4f88-987b-6910a434f270" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blogengine/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blogengine/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

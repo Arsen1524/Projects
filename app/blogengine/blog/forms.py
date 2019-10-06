@@ -1,5 +1,4 @@
 from django import forms
-from .models import *
 from django.core.exceptions import ValidationError
 from .views import *
 
@@ -45,7 +44,3 @@ class PostForm(forms.ModelForm):
         if new_slug == 'create':
             raise ValidationError('Slug may not be "Create"')
         return new_slug
-
-    # def save(self):
-    #     new_tag = Tag.objects.create(title=self.cleaned_data['title'], slug=self.cleaned_data['slug'])
-    #     return new_tag
